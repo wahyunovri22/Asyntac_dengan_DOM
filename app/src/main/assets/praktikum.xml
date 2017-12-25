@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bukus>
+    <buku>
+        <kode>12-34</kode>
+        <judul>Android untuk Pemula</judul>
+        <pengarang> RRQ Lemon</pengarang>
+    </buku>
+    <buku>
+        <kode>56-78</kode>
+        <judul>Android Tngkat Lanjut</judul>
+        <pengarang>RRQ Tuturu</pengarang>
+    </buku>
+</bukus>
